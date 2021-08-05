@@ -1,0 +1,19 @@
+.error{
+    color: rgb(194, 22, 22);
+    font-size: 20px;
+    text-align: center;
+    
+}
+.users-ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.users-li{
+    display: flex;
+    flex-direction: column;
+}
+.image{
+    height: 120px;
+}
